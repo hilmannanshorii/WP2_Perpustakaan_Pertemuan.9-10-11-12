@@ -1,4 +1,4 @@
-<?php
+<?ph
 function cek_login()
 {
    $ci = get_instance();

@@ -1,4 +1,4 @@
-<?php
+<?ph
 
 class Autentifikasi extends CI_Controller
 {
